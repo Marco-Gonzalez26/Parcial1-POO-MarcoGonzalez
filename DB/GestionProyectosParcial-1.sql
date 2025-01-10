@@ -113,3 +113,8 @@ GO
 ALTER DATABASE [Parcial1_GestionProyectos] SET  READ_WRITE 
 GO
 
+INSERT INTO  Roles (Nombre) VALUES('Desarrollador');
+
+INSERT INTO  Roles (Nombre) VALUES('Gerente');
+
+INSERT INTO  Roles(Nombre) VALUES('Diseñador');
